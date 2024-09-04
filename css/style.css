@@ -374,3 +374,31 @@ footer::after {
     }
 
 } */
+
+
+/*==============  */
+
+
+/* ========= up  */
+
+#arrow-div {
+  position: fixed;
+  bottom: 50px;
+  right: 30px;
+  transition: 0.5s;
+}
+
+#arrow-div:hover {
+  bottom: 40px ;
+}
+
+#up-arrow {
+  font-size: 70px;
+  font-weight: bold;
+  color: rgba(42, 89, 165, 0.845);
+
+}
+
+
+
+
